@@ -1,0 +1,2 @@
+Prefix plugins/MedianNorm/example/
+Plugin MedianNorm inputfile genemat.csv outputfile mediannorm.rds
